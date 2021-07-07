@@ -1,4 +1,4 @@
-Quasar App Extension my-ext-auth
+Quasar App Extension ext-quasar-auth
 ===
 
 _Be sure to change this readme as appropriate for your app extension._
@@ -11,13 +11,13 @@ test extension app
 
 # Install
 ```bash
-quasar ext add my-ext-auth
+quasar ext add ext-quasar-auth
 ```
 Quasar CLI will retrieve it from the NPM registry and install the extension to your project.
 
 # Uninstall
 ```bash
-quasar ext remove my-ext-auth
+quasar ext remove ext-quasar-auth
 ```
 
 # Info
