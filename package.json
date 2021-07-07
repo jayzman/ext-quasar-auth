@@ -24,5 +24,8 @@
     "qs": "^6.10.1",
     "quasar": "^2.0.1",
     "vue": "^2.6.14"
+  },
+  "publishConfig": {
+    "@jayzman:registry": "https://npm.pkg.github.com"
   }
 }
