@@ -1,6 +1,6 @@
 {
   "name": "@jayzman/quasar-app-extension-ext-quasar-auth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "test extension app ",
   "author": "Zo",
   "license": "MIT",
@@ -22,6 +22,7 @@
     "yarn": ">= 1.6.0"
   },
   "dependencies": {
+    "@jayzman/quasar-app-extension-ext-quasar-auth": "^0.0.3",
     "axios": "^0.21.1",
     "qs": "^6.10.1",
     "quasar": "^2.0.1",
