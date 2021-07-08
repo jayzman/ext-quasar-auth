@@ -1,8 +1,8 @@
 {
   "name": "@jayzman/quasar-app-extension-ext-quasar-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test extension app ",
-  "author": "Zo ",
+  "author": "Zo",
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
@@ -10,10 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jayzman/ext-quasar-auth"
+    "url": "git+https://github.com/jayzman/ext-quasar-auth.git"
   },
-  "bugs": "",
-  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/jayzman/ext-quasar-auth/issues"
+  },
+  "homepage": "https://github.com/jayzman/ext-quasar-auth#readme",
   "engines": {
     "node": ">= 8.9.0",
     "npm": ">= 5.6.0",
@@ -27,5 +29,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
+  "devDependencies": {}
 }
