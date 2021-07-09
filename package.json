@@ -1,6 +1,6 @@
 {
   "name": "@jayzman/ext-quasar-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quasar App Extension ext-quasar-auth ===",
   "main": "index.js",
   "dependencies": {},
